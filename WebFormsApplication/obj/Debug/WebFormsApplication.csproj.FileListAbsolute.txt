@@ -1,0 +1,150 @@
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\WebFormsApplication.dll.config
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\WebFormsApplication.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\WebFormsApplication.pdb
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csc.exe
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csc.exe.config
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csc.rsp
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csi.exe
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csi.exe.config
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csi.rsp
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.AppContext.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Console.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.Compression.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Claims.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.ValueTuple.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\vbc.exe
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\vbc.exe.config
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\vbc.rsp
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\VBCSCompiler.exe
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Antlr3.Runtime.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\AspNet.ScriptManager.jQuery.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Newtonsoft.Json.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\System.Web.Optimization.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\WebGrease.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\System.Web.Optimization.xml
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Newtonsoft.Json.xml
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Antlr3.Runtime.pdb
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.csprojAssemblyReference.cache
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.CoreCompileInputs.cache
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.CopyComplete
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.dll
+C:\Exercise Files\Ch02\02_02_Begin\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.pdb
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\WebFormsApplication.dll.config
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\WebFormsApplication.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\WebFormsApplication.pdb
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csc.exe
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csc.exe.config
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csc.rsp
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csi.exe
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csi.exe.config
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\csi.rsp
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.AppContext.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Console.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\vbc.exe
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\vbc.exe.config
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\vbc.rsp
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Antlr3.Runtime.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Newtonsoft.Json.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\System.Web.Optimization.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\WebGrease.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\System.Web.Optimization.xml
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Newtonsoft.Json.xml
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Antlr3.Runtime.pdb
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.AssemblyReference.cache
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.csproj.CopyComplete
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.dll
+C:\Users\nomie\OneDrive\Desktop\ASN.NET\Ch02\02_02_End\Tutorial.AspNet\WebFormsApplication\obj\Debug\WebFormsApplication.pdb
