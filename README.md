@@ -22,7 +22,7 @@ Contains the ASP.NET functions of the default pages, including the following fun
 - DisplayUsers: create HTMLTableCell and HTMLTableRow once the data fetching step is completed to display user infomation in the table
 
 ### Demo Image
-![Main Page Before Load User is hit](path/to/image.png)
-![Main Page After Load User is hit](path/to/image.png)
+![Main Page Before Load User is hit](https://github.com/nhatduy227/ASP-DEMO-APP/blob/master/assets/Before.png)
+![Main Page After Load User is hit](https://github.com/nhatduy227/ASP-DEMO-APP/blob/master/assets/After.png)
 
 
