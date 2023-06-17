@@ -8,7 +8,7 @@ This demo has 2 main sections: <br/>
 &nbsp;&nbsp;&nbsp;Default.aspx.cs <br/>
 
 ### Default.aspx
-*Contains the ASP.NET elements of the default pages, including the following components:
+Contains the ASP.NET elements of the default pages, including the following components:
 - Welcome Text
 - Load User Button
 - Tabular Table Contain all of the user info (that will be fetch from the dummy API)
@@ -16,7 +16,7 @@ This demo has 2 main sections: <br/>
 <br/>
 
 ### Default.aspx
-*Contains the ASP.NET functions of the default pages, including the following functions:
+Contains the ASP.NET functions of the default pages, including the following functions:
 - LoadUsers_Click: Invoke an API call to https://dummyjson.com/users to get all the user info
 - ExtractContentBetweenBrackets: Process Json data return from the API call to match with the desired format 
 - DisplayUsers: create HTMLTableCell and HTMLTableRow once the data fetching step is completed to display user infomation in the table
